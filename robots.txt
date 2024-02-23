@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sakamoto-network.github.io/sitemap.xml
+Sitemap: https://sakamoto.network/sitemap.xml
