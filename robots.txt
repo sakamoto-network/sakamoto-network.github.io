@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /secret
 
 Sitemap: https://sakamoto.network/sitemap.xml
