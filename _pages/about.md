@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 I'm a hobbyist programmer currently going through [The Odin Project](https://www.theodinproject.com/home). I'm interested in backend web development as well as machine learning.
 
-I go by Sakamoto on the web. 
+I go by Sakamoto on the web.
